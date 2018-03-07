@@ -1,0 +1,11 @@
+commit 4c1edbbe03e2b8d6269929f6531f15dc523fcf97 (HEAD -> logging, origin/master, master)
+Author: nikolovski.stefan.2@students.finki.ukim.mk <nikolovski.stefan.2@students.finki.ukim.mk>
+Date:   Wed Mar 7 19:07:15 2018 +0100
+
+    modify l1.txt
+
+commit cec9dc8d7362b3e8c7c22f76295807e2aa8a1fb2
+Author: nikolovski.stefan.2@students.finki.ukim.mk <nikolovski.stefan.2@students.finki.ukim.mk>
+Date:   Wed Mar 7 19:02:28 2018 +0100
+
+    Initial commit
