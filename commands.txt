@@ -1,0 +1,25 @@
+1.mkdir lab1
+2.cd lab1
+3.git init
+4.echo > l1.txt
+5.git add l1.txt
+6.git commit -m "Initial commit"
+7.se modifikuva l1.txt
+8.git add l1.txt
+9.git commit -m "modify l1.txt"
+10.git remote add origin https://github.com/stefanikolovski/newrepo.git
+11.git push -u origin master
+12.se modifikuva l1.txt
+13.git checkout -- l1.txt
+14.git branch logging
+15.git checkout logging
+16.echo > log.txt
+17.git add log.txt
+18.git commit -m "Add log.txt"
+19.git push -u origin logging
+20.git checkout master
+21.git merge logging
+22.git push-u origin master
+23.git branch allcommands
+24.git checkout allcommands
+25.echo > commands.txt
